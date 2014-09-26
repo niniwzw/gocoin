@@ -6,7 +6,7 @@ import (
 	"sort"
 	"time"
 	"sync/atomic"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 )
 
 var (

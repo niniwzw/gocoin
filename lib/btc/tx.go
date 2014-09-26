@@ -398,7 +398,7 @@ func NewTx(b []byte) (tx *Tx, offs int) {
 	tx = new(Tx)
 
 	tx.Version = binary.LittleEndian.Uint32(b[0:4])
-	offs = 4
+	offs = 8
 
 	// TxIn
 	le, n = VLen(b[offs:])

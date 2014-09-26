@@ -5,7 +5,7 @@ import (
 	"time"
 	"bytes"
 	"errors"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 )
 
 func (ch *Chain) CheckBlock(bl *btc.Block) (er error, dos bool, maybelater bool) {

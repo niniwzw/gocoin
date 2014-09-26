@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"unsafe"
 	"syscall"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 )
 
 var (

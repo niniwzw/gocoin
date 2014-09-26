@@ -8,11 +8,11 @@ import (
 	"net/http"
 	"io/ioutil"
 	"encoding/hex"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/script"
-	"github.com/piotrnar/gocoin/client/common"
-	"github.com/piotrnar/gocoin/client/network"
-	"github.com/piotrnar/gocoin/client/usif"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/script"
+	"github.com/niniwzw/gocoin/client/common"
+	"github.com/niniwzw/gocoin/client/network"
+	"github.com/niniwzw/gocoin/client/usif"
 )
 
 func p_txs(w http.ResponseWriter, r *http.Request) {

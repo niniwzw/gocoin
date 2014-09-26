@@ -9,9 +9,9 @@ import (
 	"errors"
 	"sync/atomic"
 	"encoding/binary"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/chain"
-	"github.com/piotrnar/gocoin/lib/others/peersdb"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/chain"
+	"github.com/niniwzw/gocoin/lib/others/peersdb"
 )
 
 var (

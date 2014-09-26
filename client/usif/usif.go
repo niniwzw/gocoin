@@ -8,10 +8,10 @@ import (
 	"math/rand"
 	"encoding/hex"
 	"encoding/binary"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/script"
-	"github.com/piotrnar/gocoin/client/common"
-	"github.com/piotrnar/gocoin/client/network"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/script"
+	"github.com/niniwzw/gocoin/client/common"
+	"github.com/niniwzw/gocoin/client/network"
 )
 
 

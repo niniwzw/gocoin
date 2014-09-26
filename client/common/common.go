@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 	"time"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/chain"
-	"github.com/piotrnar/gocoin/lib"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/chain"
+	"github.com/niniwzw/gocoin/lib"
 )
 
 const (

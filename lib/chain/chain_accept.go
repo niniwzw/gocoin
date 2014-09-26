@@ -3,9 +3,9 @@ package chain
 import (
 	"fmt"
 	"errors"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/script"
-	"github.com/piotrnar/gocoin/lib/others/sys"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/script"
+	"github.com/niniwzw/gocoin/lib/others/sys"
 )
 
 // TrustedTxChecker is meant to speed up verifying transactions that had

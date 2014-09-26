@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"io/ioutil"
 	"encoding/json"
-	"github.com/piotrnar/gocoin/lib/others/sys"
-	"github.com/piotrnar/gocoin/client/common"
-	"github.com/piotrnar/gocoin/client/wallet"
-	"github.com/piotrnar/gocoin/client/network"
-	"github.com/piotrnar/gocoin/client/usif"
+	"github.com/niniwzw/gocoin/lib/others/sys"
+	"github.com/niniwzw/gocoin/client/common"
+	"github.com/niniwzw/gocoin/client/wallet"
+	"github.com/niniwzw/gocoin/client/network"
+	"github.com/niniwzw/gocoin/client/usif"
 )
 
 func p_cfg(w http.ResponseWriter, r *http.Request) {

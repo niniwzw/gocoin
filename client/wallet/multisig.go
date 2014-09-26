@@ -4,8 +4,8 @@ import (
 	"os"
 	"io/ioutil"
 	"encoding/json"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/client/common"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/client/common"
 )
 
 type MultisigAddr struct {

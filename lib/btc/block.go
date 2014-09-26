@@ -3,7 +3,7 @@ package btc
 import (
 	"errors"
 	"encoding/binary"
-	"github.com/piotrnar/gocoin/lib/others/sys"
+	"github.com/niniwzw/gocoin/lib/others/sys"
 )
 
 type Block struct {

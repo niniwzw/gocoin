@@ -7,7 +7,7 @@ import (
 	"crypto/rand"
 	"crypto/sha256"
 	"encoding/binary"
-	"github.com/piotrnar/gocoin/lib/secp256k1"
+	"github.com/niniwzw/gocoin/lib/secp256k1"
 	"code.google.com/p/go.crypto/ripemd160"
 )
 

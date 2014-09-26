@@ -2,7 +2,7 @@ package chain
 
 import (
 	"math/big"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 )
 
 var MaxPOWValue *big.Int // it's var but used as a constant

@@ -8,8 +8,8 @@ import (
 	"strings"
 	"io/ioutil"
 	"path/filepath"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/client/common"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/client/common"
 )
 
 const (

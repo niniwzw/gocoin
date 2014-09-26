@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"runtime/debug"
 	"encoding/json"
-	"github.com/piotrnar/gocoin/lib/chain"
+	"github.com/niniwzw/gocoin/lib/chain"
 )
 
 var (

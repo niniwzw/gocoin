@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 	"encoding/hex"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 )
 
 var CNT int = 250

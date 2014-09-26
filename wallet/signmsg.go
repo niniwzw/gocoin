@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"encoding/hex"
 	"encoding/base64"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/ltc"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/ltc"
 )
 
 

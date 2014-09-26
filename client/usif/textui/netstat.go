@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sort"
 	"time"
-	"github.com/piotrnar/gocoin/client/network"
-	"github.com/piotrnar/gocoin/client/common"
-	"github.com/piotrnar/gocoin/lib/others/peersdb"
+	"github.com/niniwzw/gocoin/client/network"
+	"github.com/niniwzw/gocoin/client/common"
+	"github.com/niniwzw/gocoin/lib/others/peersdb"
 )
 
 

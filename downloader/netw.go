@@ -9,8 +9,8 @@ import (
 	"strings"
 	"sync/atomic"
 	"encoding/binary"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/lib/others/peersdb"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/others/peersdb"
 )
 
 

@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"crypto/sha256"
 	"encoding/binary"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 	"code.google.com/p/go.crypto/ripemd160"
 )
 

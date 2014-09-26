@@ -2,7 +2,7 @@ package ltc
 
 import (
 	"bytes"
-	"github.com/piotrnar/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/lib/btc"
 )
 
 const LTC_ADDR_VERSION = 48

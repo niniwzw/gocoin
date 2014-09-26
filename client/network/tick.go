@@ -7,8 +7,8 @@ import (
 	"bytes"
 	"math/rand"
 	"sync/atomic"
-	"github.com/piotrnar/gocoin/client/common"
-	"github.com/piotrnar/gocoin/lib/others/peersdb"
+	"github.com/niniwzw/gocoin/client/common"
+	"github.com/niniwzw/gocoin/lib/others/peersdb"
 )
 
 

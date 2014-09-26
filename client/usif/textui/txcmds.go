@@ -4,9 +4,9 @@ import (
 	"os"
 	"fmt"
 	"time"
-	"github.com/piotrnar/gocoin/lib/btc"
-	"github.com/piotrnar/gocoin/client/usif"
-	"github.com/piotrnar/gocoin/client/network"
+	"github.com/niniwzw/gocoin/lib/btc"
+	"github.com/niniwzw/gocoin/client/usif"
+	"github.com/niniwzw/gocoin/client/network"
 )
 
 

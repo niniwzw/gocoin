@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 	"encoding/hex"
-	"github.com/piotrnar/gocoin/lib/others/cgo/openssl"
+	"github.com/niniwzw/gocoin/lib/others/cgo/openssl"
 )
 
 var CNT int = 15*250
